@@ -1,3 +1,4 @@
-# Include these files
+*
 !README.md
 !version.txt
+!.gitignore
