@@ -1,4 +1,4 @@
-# HydroS-Pro v1.3.1
+# HydroS-Pro v1.3.2
 
 Hydrology tools for TROPI sites:
 - **Manual Extractor** — extract manual water table data into split CSV based on site/pipes
